@@ -1,3484 +1,1162 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722526673402 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722548073455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526676474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548076523 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526679540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548079601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526682681 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548082681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526685747 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548085751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526688811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548088823 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526691874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548091882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526694993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548094936 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526698083 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548098004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526701307 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548101079 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526704372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548104142 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526707433 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548107222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526710507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548110291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526713575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548113354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526716648 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548116418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526719710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548119495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526722779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548122563 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526725853 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548125627 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526728929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548128682 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526731993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548131741 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526735055 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548134886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526738118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548137963 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526741180 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548141063 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526744351 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548144131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526747420 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548147188 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526750495 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548150255 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526753608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548153315 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526756679 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548156384 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526759761 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548159460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526762888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548162537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526765987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548165609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526769053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548168678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526772148 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548171753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526775224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548174828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526778309 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548177907 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526781418 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548180980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526784493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548184046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526787570 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548187121 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526790645 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548190178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526793705 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548193236 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526796769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548196317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526799831 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548199381 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526802890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548202440 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526805965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548205496 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526809029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548208562 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526812096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548211617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526815152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548214692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526818230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548217761 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526821330 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548220861 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526824412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548223926 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526827473 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548226986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526830537 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548230044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526833596 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548233122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526836740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548236186 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526839879 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548239253 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526843081 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548242308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526846453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548245367 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526849580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548248428 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526852970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548251495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526856036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548254548 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526859095 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548257615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526862163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548260670 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526865239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548263759 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526868302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548266837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526871364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548269922 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526874436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548273044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722526883581 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548276101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526886656 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548279156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526889737 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548282230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526892797 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548285298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526895863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548288383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526898935 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548291455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526902077 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548294527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526905177 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548297587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526908243 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548300644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526911310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548303712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526914383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548306777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526917460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548309859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526920523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548312914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526923596 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548315970 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526926660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548319036 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526929720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548322098 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526932793 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548325184 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526935874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548328249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526938955 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548331311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526942043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548334376 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526945214 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548337447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526948276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548340508 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526951339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548343572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526954406 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548346645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526957466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548349706 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526960527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548352762 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526963620 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548355833 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526966684 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548358917 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526969748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548361975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526972824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548365030 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526975914 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548368092 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526978998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548371149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526982073 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548374212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526985137 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548377280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526988199 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548380375 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526991265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548383447 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526994323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548386515 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722526997481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548389571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527000550 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548392628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527003619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548395690 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527006694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548398748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527009756 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548401809 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527012818 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548404874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527015879 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548407948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527018941 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548411021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527022023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548414115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527025101 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548417182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527028184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548420245 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527031250 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548423327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527034317 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548426387 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527037387 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548429448 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527040450 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548432503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527043511 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548435566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527046572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548438637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527049639 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548441697 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527052701 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548444769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527055766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548447825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527058846 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548450879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527061929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548453955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527065000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548457017 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527068064 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548460080 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527071132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548463139 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527074209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548466221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527077278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548469300 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527080339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548472365 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722527089468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548475434 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527092543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548478501 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527095614 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548481588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527098697 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548484641 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722527108127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548487700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527111197 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548490771 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527114260 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548493840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527117322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548496903 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527120383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548499965 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527123443 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548503025 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527126506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548506083 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527129567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548509147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527132644 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548512293 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527135712 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548515349 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527138781 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548518403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527141845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548521472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527144921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548524538 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527147980 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548527595 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527151056 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548530651 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527154122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548533715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527157184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548536772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527160250 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548539827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527163333 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548542886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527166419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548545978 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527169492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548549042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527172554 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548552124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527175616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548555196 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527178675 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548558264 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527181758 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548561336 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527184842 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548564464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527187934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548567525 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527191011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548570593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527194069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548573663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527197145 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548576731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527200224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548579798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527203293 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548582854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527206357 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548585920 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527209416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548588976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527212484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548592040 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527215550 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548595102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527218627 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548598156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527221719 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548601228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527224779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548604310 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527227841 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548607387 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527230908 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548610478 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527233970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548613544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527237031 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548616603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527240098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548619662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527243165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548622716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527246233 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548625798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527249319 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548628910 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527252421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548631969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527255488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548635043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527258585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548638109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527261652 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548641201 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527264727 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548644263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527267789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548647321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527270855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548650407 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527273924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548653500 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527276998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548656583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527280080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548659662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527283163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548662722 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
 green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527286229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527289292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527292361 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527295450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527298511 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527301572 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527304641 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527307702 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527310771 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527313840 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527316903 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527319961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527323050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527326119 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527329180 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527332240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527335317 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527338391 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527341459 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527344591 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527347650 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527350712 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527353776 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527356836 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527359901 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527362967 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527366041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527369110 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527372178 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527375269 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527378344 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527381418 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527384487 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527387559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527390621 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527393684 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527396755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722527405890 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527408970 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722527418091 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527421153 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527424211 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527427268 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527430346 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722527439677 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527442750 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527445825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527448895 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527451957 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527455021 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527458085 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527461167 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527464226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527467296 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527470359 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527473419 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527476519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527479581 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527482651 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527485805 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527488869 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527491942 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527495018 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527498078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527501157 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527504242 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527507311 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527510388 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527513452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527516530 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527519593 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527522667 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527525751 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527528813 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527531907 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527534975 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527538081 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527541162 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527544250 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527547316 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527550380 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527553450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527556529 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527559599 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527562683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527565758 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527568828 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527571915 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527574990 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527578054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527581124 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527584186 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527587253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527590332 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527593411 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527596502 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527599570 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527602639 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527605713 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527608785 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527611851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527614934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527618013 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527621084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527624164 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527627231 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527630296 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527633360 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527636458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527639527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527642599 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527645672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527648750 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527651828 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527654902 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527657986 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527661046 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527664114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527667187 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527670252 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527673328 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527676395 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527679458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527682522 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527685596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527688661 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527691726 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527694793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527697861 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527700931 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527703995 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527707057 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527710131 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527713220 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527716289 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527719348 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527722426 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527725505 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527728577 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527731663 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527734726 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527737793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527740874 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527743948 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527747057 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527750130 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527753202 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527756264 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527759337 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527762414 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527765523 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527768618 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527771683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527774769 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527777873 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527780942 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527784015 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527787089 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527790154 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527793220 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527796290 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527799352 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527802439 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527805519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527808599 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527811666 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527814737 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527817817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527820885 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527823997 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527827083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527830163 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527833225 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527836309 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527839379 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527842446 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527845512 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527848584 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527851654 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527854718 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527857787 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527860850 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527863925 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527866994 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527870066 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527873150 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527876212 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527879285 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527882357 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527885437 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527888496 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527891558 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527894619 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527897689 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527900766 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527903849 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527906913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527909974 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527913035 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527916097 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527919164 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527922228 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527925312 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527928373 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527931463 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527934553 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527937622 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527940697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527943761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527946825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527949902 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527952974 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527956044 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527959120 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527962305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527965368 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527968426 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527971486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527974551 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527977618 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527980698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527983763 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527986851 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527989926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527993010 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527996084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722527999143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528002215 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528005357 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528008427 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528011499 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528014590 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528017659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528020744 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528023853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528026929 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528030001 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528033061 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528036120 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528039214 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528042277 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528045347 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528048411 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528051474 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528054557 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528057620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528060686 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528063780 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528066855 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528069924 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528072987 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528076050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528079120 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528082183 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528085247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528088310 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528091373 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528094524 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528097600 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528100669 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528103743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528106806 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528109865 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528112926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528115990 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528119062 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528122133 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528125213 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528128282 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528131342 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528134401 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528137468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528140559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528143625 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528146693 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528149762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528152832 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528155893 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528158954 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528162101 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528165168 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528168237 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528171304 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528174373 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528177458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528180535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528183715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528186778 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528189840 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528192932 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528196002 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528199083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528202164 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528205234 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528208332 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528211413 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528214479 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528217565 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722528226929 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528229991 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528233054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528236123 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528239191 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528242265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528245333 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528248404 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528251466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528254537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528257601 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528260663 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528263772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528266858 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528269936 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528273006 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528276084 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528279158 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528282324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722528291524 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528294591 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528297661 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528300759 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528303831 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528306906 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528310002 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528313066 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528316134 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722528325273 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528328344 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528331416 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528334495 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528337556 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528340620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528343687 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528346751 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528349818 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528352905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528355978 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528359045 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528362123 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528365189 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528368251 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528371324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528374387 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528377452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528380520 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528383583 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528386649 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528389715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528392784 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528395854 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528398913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528401975 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528405037 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528408123 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528411206 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528414276 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528417353 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528420424 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528423489 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528426567 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528429639 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528432704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528435761 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 500, "<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"))
-[2J8[0mplayit (v0.15.13): 1722528444904 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528447995 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528451073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528454145 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528457212 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528460289 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528463354 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528466419 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528469493 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528472580 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528475694 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528478764 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528481853 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528484950 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528488033 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528491110 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528494171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528497229 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528500326 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-union-moderate.gl.at.ply.gg:3065 => 127.0.0.1:3065 (minecraft-bedrock)
-green-signal.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1722528503400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722548665786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
